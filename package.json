@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "seed:ingredients": "node ingredients/seed.js"
   },
   "author": "Brian Holt <btholt+sql@gmail.com>",
   "license": "Apache-2.0",

@@ -15,4 +15,4 @@ services:
     environment:
       POSTGRES_PASSWORD: lol
     ports:
-      - 5432:5432
+      - 8080:5432
